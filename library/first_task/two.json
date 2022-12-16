@@ -1,0 +1,14 @@
+{
+"Student":[{
+"firstname":"finny",
+"lastname":"ttt",
+"phone":9997,
+"place":"Stuttgart"
+},
+{
+"firstname":"Rosa",
+"lastname":"rrr",
+"phone":6666,
+"place":"Lindau"
+}]
+}
